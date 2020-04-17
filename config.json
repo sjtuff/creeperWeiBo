@@ -1,0 +1,16 @@
+{
+	"user_id_list": ["6106712259"],
+    "filter": 1,
+    "since_date": "2018-01-01",
+    "write_mode": ["csv", "txt"],
+    "pic_download": 1,
+    "video_download": 1,
+    "cookie": "_T_WM=56498369640; MLOGIN=1; WEIBOCN_WM=3349; H5_wentry=H5; backURL=https%3A%2F%2Fm.weibo.cn%2F; WEIBOCN_FROM=1110006030; M_WEIBOCN_PARAMS=luicode%3D20000174%26uicode%3D20000174; ALF=1586244941; SUB=_2A25zYNAeDeRhGeBO6VsV8C_LwjyIHXVQqvBWrDV6PUNbktANLVTckW1NSjb2ZVwGlTpfXPQ6A5uWvRZJYLWMbx91; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WFj2yNAQdref2876ogPCm115JpX5KzhUgL.Foq7eo.Xeh2N1K52dJLoI7UJ9onpeh.f; SUHB=0TPFpZ__F8-YRN; SSOLoginState=1583652942",
+    "mysql_config": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "123456",
+        "charset": "utf8mb4"
+    }
+}
